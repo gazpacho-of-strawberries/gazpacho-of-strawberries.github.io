@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     background: #ccccff; /* цвет фона страницы */
 }
@@ -8,15 +7,4 @@ p {
     font-size: 150%; /* размер шрифта */
     text-align: center; /* текст по центру */
     border: 5px green double; /* стили рамки */
-=======
-body {
-    background: #ccccff; /* цвет фона страницы */
-}
-p {
-    color: red; /* цвет текста параграфов */
-    font-family: 'Bangers', cursive; /* гарнитура шрифта параграфов */
-    font-size: 150%; /* размер шрифта */
-    text-align: center; /* текст по центру */
-    border: 5px green double; /* стили рамки */
->>>>>>> b396d330593770327cc7b34736d8b1ca078d58d6
 }
