@@ -1,60 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Галерея</title>
-    {% load static %}
-    <link rel="shortcut icon" href="{% static "images/i.jpg" %}" type="image/png">
-    <link rel="stylesheet" href="{% static 'Bootstrap/css/bootstrap.css' %}">
-    <link rel="stylesheet" href="{% static 'Bootstrap/css/font-awesome.min.css' %}">
-    <link href="{% static 'Bootstrap/css/main.css' %}" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="{% static 'Bootstrap/js/bootstrap.min.js' %}"></script>
-    <script type="text/javascript" src="{% static 'Bootstrap/js/jquery-3.2.1.min.js' %}"></script>
-    <script type="text/javascript" src="{% static 'Bootstrap/js/alight_0.12.last.min.js' %}"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style/style.css">
 </head>
 <body>
-
-<div class="navbar navbar-inverse navbar-fixed-top">
-    <h7><a class="navbar-brand col-20 col-sm-20 col-md-10
-    font-size: 60px;
-    font-weight: inherit;" href="#">ГАЛЕРЕЯ</a></h7>
-
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="icon-bar"></span>
-            </button>
-
-
-            <ul class="nav navbar-nav">
-                <li1><a href="{% url 'main_url' %}">ГЛАВНАЯ СТРАНИЦА </a></li1>
-                <li2><a href="/admin/">DJANGO</a></li2>
-                <li3><a href="{% url 'db_url' %}">КОЛЛЕКЦИЯ</a></li3>
-
-            </ul>
-        </div>
-    </div>
-</div>
-<li>
-    <div class="dropdown">
-        <button class="dropdown-toggle" data-toggle="dropdown">
-            <img src="{% static "images/2.png" %}" width="50" height="50" alt=""/>
-        </button>
-        <div class="dropdown-content">
-            {% if request.user.is_authenticated %}
-            <span>Пользователь {{ request.user.username }}</span>
-            <a href="{% url 'logout_url' %}">Выйти</a>
-            {% else %}
-            <a href="{% url 'login_url' %}">Вход</a>
-
-            <a href="{% url 'registration2_url' %}">Регистрация</a>
-            {% endif %}
-        </div>
-    </div>
-</li>
-{% block body1 %}{% endblock %}
-
+<p>gazpacho of strawberries</p>
 </body>
 </html>
