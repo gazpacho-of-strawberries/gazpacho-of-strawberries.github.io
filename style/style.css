@@ -113,7 +113,6 @@ p {
     height: 100px;
     position: relative;
     margin-top: 20px;
-    margin-left: 50%;
     border: 2px solid #681c23;
     /* Подключаем свойство transform-style для 3D */
     transform-style: preserve-3d;
@@ -123,7 +122,6 @@ p {
 /* Наружний квадрат */
 .outer {
     position: relative;
-    margin-right: 50%;
     margin-top: 20px;
     width: 200px;
     height: 100px;
