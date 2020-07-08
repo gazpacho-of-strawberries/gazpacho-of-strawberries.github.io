@@ -2,9 +2,9 @@ body {
     background: #681c23; /* цвет фона страницы */
 }
 p {
-    color: black; /* цвет текста параграфов */
+    color: lightskyblue; /* цвет текста параграфов */
     font-family: 'Bangers', cursive; /* гарнитура шрифта параграфов */
-    font-size: 150%; /* размер шрифта */
+    font-size: 400px; /* размер шрифта */
     text-align: center; /* текст по центру */
     border: 15px beige solid; /* стили рамки */
 }
