@@ -9,6 +9,15 @@
     50% {text-shadow: 0 0 35px violet;}
     to {text-shadow: 0 0 5px blueviolet;}
 }
+@keyframes size {
+    from { width:80px; height:80px;}
+    50% { width:40px; height:40px;}
+    to { width:80px; height:80px;}
+}
+
+img{
+    animation: size 4s infinite ease-in-out;
+}
 h1 {
     text-align: center;
     color: darkred;
@@ -27,6 +36,8 @@ h2 {
     position: relative;
     animation: shadow2  2s infinite ease-in-out;
 }
+h2:hover{color: darkviolet}
+
 .menu-main {
     list-style: none;
     margin: 40px 0 5px;
