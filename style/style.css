@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
 @keyframes shadow {
-    from {text-shadow: 0 0 3px black;}
-    50% {text-shadow: 0 0 30px black;}
-    to {text-shadow: 0 0 3px black;}
+    from {text-shadow: 0 0 3px violet;}
+    50% {text-shadow: 0 0 30px blueviolet;}
+    to {text-shadow: 0 0 3px violet;}
 }
 h1 {
     text-align: center;
-    color: darkviolet;
+    color: darkred;
     border: 1px lightgray ridge;
     font-family: 'Courier New', sans-serif;
     padding-top:0;
     height: 50%;
     position: fixed;
-    animation: shadow  5s infinite ease-in-out;
+    animation: shadow  2s infinite ease-in-out;
 }
 .menu-main {
     list-style: none;
