@@ -10,9 +10,9 @@
     to {text-shadow: 0 0 5px blueviolet;}
 }
 @keyframes size {
-    from { width:80px; height:80px;}
-    50% { width:40px; height:40px;}
-    to { width:80px; height:80px;}
+    from { width:6%; height:6%;}
+    50% { width:2%; height:2%;}
+    to {width:6%; height:6%;}
 }
 
 img{
