@@ -108,3 +108,37 @@ p {
     margin-top: 0;
     margin-bottom: 0;
 }
+.main-box {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 50%;
+    border: 2px solid #681c23;
+    /* Подключаем свойство transform-style для 3D */
+    transform-style: preserve-3d;
+    /* Подключаем анимацию для вращения и обзора */
+    animation: main-rotate 10s infinite linear;
+}
+/* Наружний квадрат */
+.outer {
+    position: relative;
+    margin-right: 50%;
+    margin-top: 20px;
+    width: 200px;
+    height: 100px;
+    /* Прозрачность для лучшего визуального восприятия */
+    opacity: 0.7;
+}
+/*Внутренний квадрат*/
+.interior {
+    /* Отодвигаем внурь и уменьшаем масштаб */
+    transform: translateZ(-5em) scale(0.8);
+    background: #681c23;
+}
+/* Анимация вращение вокруг вертикальной оси*/
+@keyframes main-rotate {
+    100% {
+        transform: rotateX(360deg);
+    }
+}
