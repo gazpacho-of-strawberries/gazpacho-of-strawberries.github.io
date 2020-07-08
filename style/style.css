@@ -6,5 +6,5 @@ p {
     font-family: 'Bangers', cursive; /* гарнитура шрифта параграфов */
     font-size: 150%; /* размер шрифта */
     text-align: center; /* текст по центру */
-    border: 15px beige ; /* стили рамки */
+    border: 15px beige solid; /* стили рамки */
 }
