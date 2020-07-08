@@ -4,6 +4,11 @@
     50% {text-shadow: 0 0 30px blueviolet;}
     to {text-shadow: 0 0 3px violet;}
 }
+@keyframes shadow2 {
+    from {text-shadow: 0 0 5px mediumvioletred;}
+    50% {text-shadow: 0 0 35px violet;}
+    to {text-shadow: 0 0 5px blueviolet;}
+}
 h1 {
     text-align: center;
     color: darkred;
@@ -13,6 +18,14 @@ h1 {
     height: 50%;
     position: fixed;
     animation: shadow  2s infinite ease-in-out;
+}
+h2 {
+    color: darkred;
+    border-bottom: 4px lightgray ridge;
+    font-family: 'Courier New', sans-serif;
+    padding-top:0;
+    position: relative;
+    animation: shadow2  2s infinite ease-in-out;
 }
 .menu-main {
     list-style: none;
