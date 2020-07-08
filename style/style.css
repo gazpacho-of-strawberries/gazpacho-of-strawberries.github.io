@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+@keyframes shadow {
+    from {text-shadow: 0 0 3px black;}
+    50% {text-shadow: 0 0 30px black;}
+    to {text-shadow: 0 0 3px black;}
+}
 h1 {
     text-align: center;
     color: darkviolet;
@@ -7,7 +12,7 @@ h1 {
     padding-top:0;
     height: 50%;
     position: fixed;
-
+    animation: shadow  5s infinite ease-in-out;
 }
 .menu-main {
     list-style: none;
@@ -72,5 +77,5 @@ p {
     border: 20px beige ridge;/* стили рамки */
     padding: 0;
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 0;
 }
