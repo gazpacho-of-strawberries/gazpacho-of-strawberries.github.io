@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594199525793</updated>
       <workItem from="1594199527070" duration="22936000" />
-      <workItem from="1594234921326" duration="5955000" />
+      <workItem from="1594234921326" duration="11379000" />
     </task>
     <servers />
   </component>
@@ -100,6 +100,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="385" y="131" key="#Inspections" timestamp="1594271470111">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="385" y="131" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1594271470111" />
     <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594203015595">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

@@ -22,10 +22,41 @@
             color: #fff; /* Цвет текста */
         }
     </style>
-    <button><i class="icon-excel" ></i></button>
-    <button><i class="icon" ></i></button>
-    <h1>Когда мы наконец займемся доработкой этого сайта, здесь появится информация о нашей организации</h1>
-    <h3>When we finally start working on this site, information about our organization will appear here</h3>
+    <script>
+            /**
+             * Функция Скрывает/Показывает блок
+             * @author ox2.ru дизайн студия
+             **/
+            function showHide() {
+                //Если элемент с id-шником element_id существует
+                if (document.getElementById('kek')) {
+                    //Записываем ссылку на элемент в переменную obj
+                    var obj = document.getElementById('kek');
+                    //Если css-свойство display не block, то:
+                    if (obj.style.display != "block") {
+                        obj.style.display = "block"; //Показываем элемент
+                    }
+                    else obj.style.display = "none"; //Скрываем элемент
+                }
+            }
+            function showHide1() {
+                //Если элемент с id-шником element_id существует
+                if (document.getElementById('kek1')) {
+                    //Записываем ссылку на элемент в переменную obj
+                    var obj = document.getElementById('kek1');
+                    //Если css-свойство display не block, то:
+                    if (obj.style.display != "block") {
+                        obj.style.display = "block"; //Показываем элемент
+                    }
+                    else obj.style.display = "none"; //Скрываем элемент
+                }
+            }
+    </script>
+    <button><i class="icon-excel" onclick="showHide()" ></i>
+    </button>
+    <button><i class="icon" onclick="showHide1()"></i></button>
+    <h1 id='kek'>Когда мы наконец займемся доработкой этого сайта, здесь появится информация о нашей организации</h1>
+    <h3 id='kek1'>When we finally start working on this site, information about our organization will appear here</h3>
 </head>
 <body>
 
