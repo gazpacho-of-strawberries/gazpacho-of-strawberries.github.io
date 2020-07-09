@@ -32,24 +32,25 @@
                 if (document.getElementById('kek')) {
                     //Записываем ссылку на элемент в переменную obj
                     var obj = document.getElementById('kek');
+                    var obj1 = document.getElementById('kek1');
                     //Если css-свойство display не block, то:
-                    if (obj.style.display != "block") {
+                    //if (obj.style.display != "block") {
+                        obj1.style.display="none";
                         obj.style.display = "block"; //Показываем элемент
                     }
-                    else obj.style.display = "none"; //Скрываем элемент
                 }
-            }
+
             function showHide1() {
                 //Если элемент с id-шником element_id существует
                 if (document.getElementById('kek1')) {
                     //Записываем ссылку на элемент в переменную obj
                     var obj = document.getElementById('kek1');
+                    var obj1 = document.getElementById('kek');
                     //Если css-свойство display не block, то:
-                    if (obj.style.display != "block") {
+                    ////if (obj.style.display != "block") {
+                        obj1.style.display="none";
                         obj.style.display = "block"; //Показываем элемент
                     }
-                    else obj.style.display = "none"; //Скрываем элемент
-                }
             }
     </script>
     <button><i class="icon-excel" onclick="showHide()" ></i>
