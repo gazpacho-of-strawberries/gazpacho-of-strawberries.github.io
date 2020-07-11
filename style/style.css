@@ -158,4 +158,5 @@ p {
 object {
     background-size: contain;
     position: absolute;
+    margin-top: 5px;
 }
