@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fc5abb3-219b-457d-9fad-8819544d8dbb" name="Default Changelist" comment="" />
+    <list default="true" id="5fc5abb3-219b-457d-9fad-8819544d8dbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +67,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,6 +83,8 @@
       <workItem from="1594280605537" duration="62000" />
       <workItem from="1594280884048" duration="27000" />
       <workItem from="1594284958281" duration="7598000" />
+      <workItem from="1702913430150" duration="64000" />
+      <workItem from="1702913665131" duration="28000" />
     </task>
     <servers />
   </component>
@@ -96,7 +101,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="385" y="131" key="#Inspections" timestamp="1594271470111">
