@@ -1,0 +1,34 @@
+{
+  "apps": {
+    "app_name_1": {
+      "button_1": {
+        "title": "Новости",
+        "url": "https://t.me/happy_leo_world"
+      },
+      "button_2": {
+        "title": "Поддержка", 
+        "url": "https://t.me/happy_leo_world"
+      }
+    },
+    "app_name_2": {
+      "button_1": {
+        "title": "Статьи",
+        "url": "https://t.me/happy_leo_world"
+      },
+      "button_2": {
+        "title": "Контакты",
+        "url": "https://t.me/happy_leo_world"
+      }
+    },
+    "my_super_app": {
+      "button_1": {
+        "title": "Главная",
+        "url": "https://t.me/happy_leo_world"
+      },
+      "button_2": {
+        "title": "Помощь",
+        "url": "https://t.me/happy_leo_world"
+      }
+    }
+  }
+}
