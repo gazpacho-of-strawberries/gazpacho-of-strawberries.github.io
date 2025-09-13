@@ -1,12 +1,15 @@
 {
   "apps": {
-    "app_name_1": {
+    "gentle": {
+      "title": {
+        "text": "Подписывайся на наши Telegram каналы"
+      },
       "button_1": {
-        "title": "Новости",
-        "url": "https://t.me/happy_leo_world"
+        "title": "Инвестиции - это просто!",
+        "url": "https://t.me/+Op5ny-A6X_5hNjky"
       },
       "button_2": {
-        "title": "Поддержка", 
+        "title": "Для души и улыбки",
         "url": "https://t.me/happy_leo_world"
       }
     },
