@@ -54,18 +54,18 @@
     },
     "metro-spb-gp": {
       "title": {
-        "text": "Рекомендуем"
+        "text": "Наши рекомендации"
       },
       "button_1": {
+        "title": "Читайте горячие новости Петербурга",
+        "url": "https://max.ru/spb_now123"
+      },
+      "button_2": {
         "title": "Оценить приложение",
         "url": "https://play.google.com/store/apps/details?id=com.yerazh.metro_spb_gp"
       },
-      "button_2": {
-        "title": "Для души",
-        "url": "https://max.ru/join/1_8Aa46zHGKX2xgf8CTx_K-YAMBRcCSZM6SsXJWAUME"
-      },
       "button_3": {
-        "title": "Тут интересно",
+        "title": "Все для души",
         "url": "https://max.ru/join/1_8Aa46zHGKX2xgf8CTx_K-YAMBRcCSZM6SsXJWAUME"
       }
     },
