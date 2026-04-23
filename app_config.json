@@ -35,6 +35,23 @@
         "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.metro_spb"
       }
     },
+    "wallpaper": {
+      "title": {
+        "text": "Рекомендуем"
+      },
+      "button_1": {
+        "title": "Оценить и поделиться приложением",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.wallpaper"
+      },
+      "button_2": {
+        "title": "Посетить наш канал",
+        "url": "https://max.ru/join/1_8Aa46zHGKX2xgf8CTx_K-YAMBRcCSZM6SsXJWAUME"
+      },
+      "button_3": {
+        "title": "Попробовать приложение для знакомств",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
+      }
+    },
     "metro-spb": {
       "title": {
         "text": "Подписывайся на наши каналы"
