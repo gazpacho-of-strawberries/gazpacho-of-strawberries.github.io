@@ -54,19 +54,19 @@
     },
     "metro-spb": {
       "title": {
-        "text": "Подписывайся на наши каналы"
+        "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "Информационный канал Санкт-Петербурга",
-        "url": "https://max.ru/join/pUWyVe72CHDW5JT24UEWcKMsWbDsrn0Y5cYwRmOdAEg"
+        "title": "Что происходит в Питере",
+        "url": "https://max.ru/popiterski"
       },
       "button_2": {
         "title": "Читайте главные новости Петербурга",
         "url": "https://max.ru/id503501079307_1_bot?startapp=TLa94e6318f5e9"
       },
       "button_3": {
-        "title": "Все районы Петербурга",
-        "url": "https://t.me/addlist/Ob0nBkgP6-pkZTUy"
+        "title": "Путеводитель по самым интересным местам Петербурга, афиша бесплатных мероприятий",
+        "url": "https://max.ru/spb_now123"
       }
     },
     "metro-spb-gp": {
