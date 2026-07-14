@@ -137,6 +137,23 @@
         "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.prigorod_novosib"
       }
     },
+    "prigorod_omsk": {
+      "title": {
+        "text": "Наши рекомендации"
+      },
+      "button_1": {
+        "title": "Все для души",
+        "url": "https://max.ru/channel_teplo"
+      },
+      "button_2": {
+        "title": "Попробовать приложение для знакомств",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
+      },
+      "button_3": {
+        "title": "Оценить и поделиться приложением",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.prigorod_omsk"
+      }
+    },
     "mcd": {
       "title": {
         "text": "Наши рекомендации"
