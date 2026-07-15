@@ -99,8 +99,8 @@
         "url": "https://max.ru/id503501079307_1_bot?startapp=TLb463c753dc43"
       },
       "button_3": {
-        "title": "Здесь вы узнаете про всё, что происходит в СПб сегодня и прямо сейчас. Погода, актуальные события и многое другое",
-        "url": "https://max.ru/id503501079307_1_bot?startapp=TLea54442fe454"
+        "title": "Афиша Питера - Куда сходить?",
+        "url": "https://t.me/+SvhfyFVQL5ozYjFi"
       }
     },
     "elka-msc": {
@@ -108,16 +108,16 @@
         "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "Все для души",
-        "url": "https://max.ru/channel_teplo"
+        "title": "МОСКВА НОВОСТИ - свежие новости каждый день",
+        "url": "https://max.ru/moskvae"
       },
       "button_2": {
         "title": "Попробовать приложение для знакомств",
         "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
       },
       "button_3": {
-        "title": "Оценить и поделиться приложением",
-        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.elka_msc"
+        "title": "Афиша Москвы - Куда сходить?",
+        "url": "https://t.me/+-RSUeSWsEI41NDE6"
       }
     },
     "prigorod_novosib": {
@@ -125,16 +125,16 @@
         "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "Все для души",
-        "url": "https://max.ru/channel_teplo"
+        "title": "НОВОСИБИРСК НОВОСТИ - свежие новости каждый день",
+        "url": "https://max.ru/novosibirsxy"
       },
       "button_2": {
-        "title": "Попробовать приложение для знакомств",
-        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
+        "title": "Эксклюзивные события в столице Сибири",
+        "url": "https://max.ru/gnil_nsk"
       },
       "button_3": {
-        "title": "Оценить и поделиться приложением",
-        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.prigorod_novosib"
+        "title": "Афиша Новосибирска - Куда сходить?",
+        "url": "https://t.me/+csGSm0SG5do2NWVi"
       }
     },
     "prigorod_omsk": {
