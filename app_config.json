@@ -74,8 +74,8 @@
         "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "Новости, места, люди и мероприятия Петербурга в одном месте",
-        "url": "https://max.ru/popiterski"
+        "title": "Куда сходить в Питере бесплатно и недорого: подборка лучших локаций",
+        "url": "https://mx-t.su/+vcVL7a-yG1JNF2CJ"
       },
       "button_2": {
         "title": "САНКТ-ПЕТЕРБУРГ НОВОСТИ - свежие новости каждый день",
@@ -108,16 +108,16 @@
         "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "МОСКВА НОВОСТИ - свежие новости каждый день",
-        "url": "https://max.ru/moskvae"
+        "title": "Все для души",
+        "url": "https://max.ru/channel_teplo"
       },
       "button_2": {
         "title": "Попробовать приложение для знакомств",
         "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
       },
       "button_3": {
-        "title": "Афиша Москвы - Куда сходить?",
-        "url": "https://t.me/+-RSUeSWsEI41NDE6"
+        "title": "Оценить и поделиться приложением",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.elka_msc"
       }
     },
     "prigorod_novosib": {
@@ -125,16 +125,16 @@
         "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "НОВОСИБИРСК НОВОСТИ - свежие новости каждый день",
-        "url": "https://max.ru/novosibirsxy"
+        "title": "Все для души",
+        "url": "https://max.ru/channel_teplo"
       },
       "button_2": {
-        "title": "Эксклюзивные события в столице Сибири",
-        "url": "https://max.ru/gnil_nsk"
+        "title": "Попробовать приложение для знакомств",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
       },
       "button_3": {
-        "title": "Куда сходить в Новосибирске?",
-        "url": "https://t.me/dosug_nsk"
+        "title": "Оценить и поделиться приложением",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.prigorod_novosib"
       }
     },
     "prigorod_omsk": {
@@ -152,6 +152,23 @@
       "button_3": {
         "title": "Оценить и поделиться приложением",
         "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.prigorod_omsk"
+      }
+    },
+    "prigorod_samara": {
+      "title": {
+        "text": "Наши рекомендации"
+      },
+      "button_1": {
+        "title": "Все для души",
+        "url": "https://max.ru/channel_teplo"
+      },
+      "button_2": {
+        "title": "Попробовать приложение для знакомств",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
+      },
+      "button_3": {
+        "title": "Оценить и поделиться приложением",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.prigorod_samara"
       }
     },
     "mcd": {
