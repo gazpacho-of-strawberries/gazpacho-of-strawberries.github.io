@@ -18,6 +18,23 @@
         "text": "1.7"
       }
     },
+    "Image-Detection": {
+      "title": {
+        "text": "Наши рекомендации"
+      },
+      "button_1": {
+        "title": "Установить обои на телефон",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.coolwallpaper"
+      },
+      "button_2": {
+        "title": "Все для души",
+        "url": "https://max.ru/channel_teplo"
+      },
+      "button_3": {
+        "title": "Попробовать приложение для знакомств",
+        "url": "https://www.rustore.ru/catalog/app/gazpacho.strawberries.leo"
+      }
+    },
     "BallSort": {
       "title": {
         "text": "Рекомендуем"
