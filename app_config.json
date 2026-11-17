@@ -18,6 +18,23 @@
         "text": "1.7"
       }
     },
+    "Image-Detection-gp": {
+      "title": {
+        "text": "Наши рекомендации"
+      },
+      "button_1": {
+        "title": "Карта Питерского метро",
+        "url": "https://play.google.com/store/apps/details?id=com.yerazh.metro_spb_gp"
+      },
+      "button_2": {
+        "title": "Юмор и вдохновение",
+        "url": "https://max.ru/channel_teplo"
+      },
+      "button_3": {
+        "title": "Все для души",
+        "url": "https://max.ru/channel_teplo"
+      }
+    },
     "Image-Detection": {
       "title": {
         "text": "Наши рекомендации"
@@ -108,8 +125,8 @@
         "text": "Наши рекомендации"
       },
       "button_1": {
-        "title": "Юмор",
-        "url": "https://max.ru/channel_teplo"
+        "title": "Умная AI Камера",
+        "url": "https://play.google.com/store/apps/details?id=com.yerazh.imageClassification_gp"
       },
       "button_2": {
         "title": "Все для души",
